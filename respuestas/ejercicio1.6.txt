@@ -1,1 +1,4 @@
 git log --pretty=oneline --graph
+* 56166eb9d37c97de6582ad21030b30208d2d4f40 (HEAD -> Gaete-Prat) añadida respuesta al ejercicio 1.4
+* b79c7ba1a5c71fc30ef8de370fdd12c40e316a8a (origin/main, origin/HEAD, main) Update .gitignore
+* 7b39baf748c6a994c95cdb9df0eba4b586319a14 Initial commit
