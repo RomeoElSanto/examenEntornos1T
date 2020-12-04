@@ -15,4 +15,11 @@ Fast-forward
  create mode 100644 respuestas/ejercicio1.4.txt
  create mode 100644 respuestas/ejercicio1.6.txt
 
-#
+#log final
+git log
+* a2cfb898a68a2fa60947ff5e626c61e3729e8f0a (HEAD -> main) añadida respuesta al ejercicio 1.6
+* 594b0b59ad11ac96632dfb2a60d962f02343c441 añadida respuesta al ejercicio 1.4
+* 1c079b98028e4a45eca5fa967e751e09bc057c59 (Gaete-Prat) añadida respuesta al ejercicio 1.6
+* 56166eb9d37c97de6582ad21030b30208d2d4f40 (tag: Gaete-Prat-paso5) añadida respuesta al ejercicio 1.4
+* b79c7ba1a5c71fc30ef8de370fdd12c40e316a8a (origin/main, origin/HEAD) Update .gitignore
+* 7b39baf748c6a994c95cdb9df0eba4b586319a14 Initial commit
