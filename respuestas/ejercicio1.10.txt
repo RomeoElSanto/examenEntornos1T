@@ -1,0 +1,18 @@
+#Creacion Rama
+ git tag 56166eb9d37c97de6582ad21030b30208d2d4f40 Gaete-Prat.paso5
+#Cambiarse rama principal y fusionar
+git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+
+git merge Gaete-Prat
+Updating b79c7ba..1c079b9
+Fast-forward
+ respuestas/ejercicio1.4.txt | 3 +++
+ respuestas/ejercicio1.6.txt | 1 +
+ 2 files changed, 4 insertions(+)
+ create mode 100644 respuestas/ejercicio1.4.txt
+ create mode 100644 respuestas/ejercicio1.6.txt
+
+#
